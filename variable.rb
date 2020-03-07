@@ -1,2 +1,3 @@
-greeting="Hello World"
-puts greeting
+answer="gand marao"
+puts "choti si gaali apke liye #answer
+"
