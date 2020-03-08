@@ -1,2 +1,2 @@
-answer="<gand marao>"
-puts "choti si gaali apke liye #{answeer}
+fuck="<lol>"
+puts "randi saale #{fuck}"
