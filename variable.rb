@@ -1,2 +1,2 @@
-fuck="<lol>"
-puts "randi saale #{fuck}"
+answer="5224"
+puts "number of people #{answer}"
