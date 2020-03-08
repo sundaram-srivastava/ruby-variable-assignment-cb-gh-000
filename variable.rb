@@ -1,4 +1,4 @@
-answer="5224"
+answer=""
 puts "number of people #{answer}"
 
 call_tic_tac="hello world"
